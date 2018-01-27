@@ -21,7 +21,7 @@ a:active, a:visited, a:focus{
     background-color: #000;
     color: #fff;
     height: 100vh;
-    background: #000 url(../img/Main-bg.jpg) center center no-repeat;
+    background: #000 url(https://github.com/vreztsov/vreztsov.github.io/blob/master/img/Main-bg.jpg) center center no-repeat;
 }
 .main-overlay{
     position: absolute;
